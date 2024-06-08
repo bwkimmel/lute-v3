@@ -6,6 +6,7 @@ import click
 from flask import Blueprint
 
 from lute.cli.language_term_export import generate_language_file, generate_book_file
+from lute.cli.korean_term_analysis import run as kta_run
 
 bp = Blueprint("cli", __name__)
 
@@ -47,3 +48,23 @@ def book_term_export(bookid, output_path):
     data file of term frequencies and children.
     """
     generate_book_file(bookid, output_path)
+
+
+@bp.cli.command("korean_term_analysis")
+@click.option("--commit", is_flag=True)
+@click.option("--book", default=0)
+@click.option("--include_books", default="")
+@click.option("--exclude_books", default="")
+@click.option("--trace", default="")
+@click.argument("todo_path")
+def korean_term_analysis(todo_path, book, include_books, exclude_books, commit, trace):
+    """
+    Analyzes undefined terms in all Korean books.
+    """
+    include_books = [int(id.strip()) for id in include_books.split(',')] if include_books else []
+    exclude_books = [int(id.strip()) for id in exclude_books.split(',')] if exclude_books else []
+    if book:
+        book = int(book)
+        if book not in include_books:
+            include_books.append(book)
+    kta_run(todo_path, include_books, exclude_books, commit, trace)
