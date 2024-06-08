@@ -6,7 +6,10 @@ import click
 from flask import Blueprint
 
 from lute.cli.language_term_export import generate_language_file, generate_book_file
-from lute.cli.import_books import import_books_from_csv
+from lute.cli.import_books import import_books_from_csv, import_books_from_yt
+from lute.cli.korean_term_analysis import run as kta_run
+from lute.cli.anki_export import generate_anki_package
+from lute.cli.apply_tag import apply_tag, apply_min_status
 
 bp = Blueprint("cli", __name__)
 
@@ -105,3 +108,78 @@ def import_books_from_csv_cmd(language, file, tags, commit):
     """
     tags = list(tags.split(",")) if tags else []
     import_books_from_csv(file, language, tags, commit)
+
+
+@bp.cli.command("korean_term_analysis")
+@click.option("--commit", is_flag=True)
+@click.option("--book", default=0)
+@click.option("--include_books", default="")
+@click.option("--exclude_books", default="")
+@click.option("--trace", default="")
+@click.option("--files", default="")
+def korean_term_analysis(book, include_books, exclude_books, files, commit, trace):
+    """
+    Analyzes undefined terms in all Korean books.
+    """
+    include_books = [int(id.strip()) for id in include_books.split(',')] if include_books else []
+    exclude_books = [int(id.strip()) for id in exclude_books.split(',')] if exclude_books else []
+    if book:
+        book = int(book)
+        if book not in include_books:
+            include_books.append(book)
+    files = files.split(',') if files else []
+    kta_run(include_books, exclude_books, files, commit, trace)
+
+
+@bp.cli.command("anki_export")
+@click.option("--guids", default="")
+@click.argument("output_path")
+def anki_export(guids, output_path):
+    """
+    Export terms for a language as an Anki package.
+    """
+    generate_anki_package("foo", output_path, guids)
+
+
+@bp.cli.command("apply_tag")
+@click.option("--commit", is_flag=True)
+@click.option("--verbose", is_flag=True)
+@click.option("--remove", is_flag=True)
+@click.argument("language")
+@click.argument("tag")
+@click.argument("words_file")
+def apply_tag_cmd(language, words_file, tag, commit, verbose, remove):
+    """
+    Apply a tag to all words in a list.
+    """
+    apply_tag(language, words_file, tag, commit, verbose, remove)
+
+
+@bp.cli.command("apply_min_status")
+@click.option("--commit", is_flag=True)
+@click.option("--verbose", is_flag=True)
+@click.argument("language")
+@click.argument("status")
+@click.argument("words_file")
+def apply_min_status_cmd(language, words_file, status, commit, verbose):
+    """
+    Apply a minimum status to all words in a list.
+    """
+    apply_min_status(language, words_file, int(status), commit, verbose)
+
+
+@bp.cli.command("import_books_from_yt")
+@click.option("--commit", is_flag=True)
+@click.option("--recursive", is_flag=True)
+@click.option("--tags", default="")
+@click.option("--sort", default="")
+@click.option("--sort_numeric", is_flag=True)
+@click.argument("language")
+@click.argument("lc")
+@click.argument("spec")
+def import_books_from_yt_cmd(language, lc, spec, tags, sort, sort_numeric, recursive, commit):
+    """
+    Import books from a paths containing youtube downloads.
+    """
+    tags = [tag for tag in tags.split(',')] if tags else []
+    import_books_from_yt(language, lc, spec, tags, sort, sort_numeric, recursive, commit)
