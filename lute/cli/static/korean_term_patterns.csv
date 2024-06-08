@@ -1,0 +1,1018 @@
+pattern,translation,tags
+*/NN/*+을/JKO/*,~
+*/NN/*+에/JKB/*,at/to ~
+*/NN/*+를/JKO/*,~
+*/NP/*+는/JX/*,~
+*/NN/*+이/JKS/*,~
+*/VV/*+고/EC/*,~ and
+*/NN/*+가/JKS/*,~
+*/VV/*+ᆯ/ETM/*,will ~
+*/NN/*+은/JX/*,~
+*/VV/*+는/ETM/*,~ing
+*/NN/*+는/JX/*,~
+*/VV/*+아요/EF/*,~
+*/VA/*+ᆫ/ETM/*,~
+*/VV/*+았/EP/*+습니다/EF/*,~ed
+*/VV/*+았/EP/*+어요/EF/*,~ed
+*/NN/*+의/JKG/*,~'s
+*/NN/*+에서/JKB/*,from ~
+*/NN/*+에서/JKB/*+만/JX/*,only from ~
+*/VV/*+어요/EF/*,~
+*/VV/*+ᆫ다/EF/*,~
+*/NN/*+이/VCP/*+ᄇ니다/EF/*,is ~
+*/VA/*+은/ETM/*,~
+*/NP/*+가/JKS/*,~
+*/VV/*+아/EC/*,~
+*/VV/*+ᄇ니다/EF/*,~
+*/VV/*+ᄇ니다/EC/*,~
+*/VV/*+지/EC/*,not ~
+*/VV/*+지/EC/*+ㄴ/JX/*,not ~
+*/VA/*+아요/EF/*,~
+*/VA/*+어요/EF/*,~
+*/VV/*+ᆫ/ETM/*,that ~ed
+*/VA/*+습니다/EF/*,~
+*/NN/*+도/JX/*,~ also
+*/VV/*+면/EC/*,if/when ~
+*/NN/*+으로/JKB/*,toward/using ~
+*/NN/*+으로/JKB/*+만/JX/*,only toward/using ~
+*/VV/*+었/EP/*+습니다/EF/*,~ed
+*/VV/*+어/EC/*,~
+*/NN/*+로/JKB/*,toward/using ~
+*/NP/*+을/JKO/*,~
+*/NN/*+이/VCP/*+ㅔ요/EF/*,is ~
+*/NN/*+에/JKB/*+는/JX/*,at/to ~
+*/VV/*+기/ETN/*,~ing
+*/VV/*+기/ETN/*+ᆫ/JX/*,~ing
+*/VV/*+기/ETN/*+만/JX/*,only ~ing
+*/VV/*+습니다/EF/*,~
+*/VA/*+게/EC/*,so that ~; ~ly
+*/VV/*+을/ETM/*,will ~
+*/VV/*+었/EP/*+어요/EF/*,~ed
+*/VV/*+기/ETN/*+로/JKB/*,toward/using ~ing; decided to ~
+*/NN/*+들/XSN/*+이/JKS/*,~s
+*/VV/*+아서/EC/*,"~, so..."
+*/VV/*+려고/EC/*,in order to ~; intend to ~
+*/VV/*+려고요/EF/*,In order to ~; Intend to ~.
+*/VV/*+ㅏ요/EF/*,~
+*/VA/*+다/EF/*,~
+*/NN/*+과/JKB/*,~ with
+*/NP/*+과/JKB/*,~ with
+*/NN/*+와/JC/*,~ with
+*/NN/*+과/JC/*,~ with
+*/NN/*+이/VCP/*+에요/EF/*,is ~
+*/VV/*+아야/EC/*,must ~
+*/VV/*+ㅓ야/EC/*,must ~
+*/VV/*+요/EF/*,~
+*/NN/*+들/XSN/*+은/JX/*,~s
+*/VV/*+게/EC/*,so that ~; ~ly
+*/NP/*+를/JKO/*,~
+*/VA/*+고/EC/*,~ and
+*/VA/*+지/EC/*,not ~
+*/VV/*+다/EF/*,~
+*/NN/*+이/VCP/*+다/EF/*,is ~
+*/VA/*+ᄇ니다/EF/*,~
+*/NN/*+이/VCP/*+라고/EC/*,called ~
+*/NN/*+이/VCP/*+라고/EC/*+도/JX/*,also called ~
+*/VV/*+았/EP/*+다/EF/*,~ed
+*/VV/*+서/EC/*,"~, so..."
+*/VV/*+기/ETN/*+를/JKO/*,~ing
+*/VV/*+어야/EC/*,must ~
+*/NP/*+은/JX/*,~
+*/VV/*+면서/EC/*,while ~
+*/VV/*+는다/EF/*,~
+*/NP/*+이/JKS/*,~
+*/VV/*+야/EC/*,must ~
+*/NN/*+에게/JKB/*,to ~
+*/VV/*+았/EP/*+나요/EF/*,~ed?
+*/VV/*+나요/EF/*,~?
+*/NN/*+들/XSN/*+을/JKO/*,~s
+*/VV/*+아/EF/*,~
+*/VV/*+ᄇ니까/EF/*,~?
+*/NP/*+에/JKB/*,at/to ~
+*/NN/*+이/VCP/*+었/EP/*+습니다/EF/*,was ~
+*/VV/*+러/EC/*,in order to ~
+*/NP/*+에게/JKB/*,to ~
+*/VV/*+어/EF/*,~
+*/NN/*+보다/JKB/*,compared to/than ~
+*/NN/*+보다/JKB/*+는/JX/*,compared to/than ~
+*/VV/*+어서/EC/*,"~, so..."
+*/VV/*+었/EP/*+다/EF/*,~ed
+*/NN/*+들/XSN/*+과/JC/*,~s with
+*/VV/*+은/ETM/*,that ~ed
+*/NN/*+이/VCP/*+야/EF/*,is ~
+*/VV/*+았/EP/*+습니까/EF/*,~ed?
+*/VV/*+니/EF/*,~?
+*/VV/*+ㅓ요/EF/*,~
+*/VV/*+ㅏㅆ/EP/*+어요/EF/*,~ed
+*/VA/*+었/EP/*+습니다/EF/*,was ~
+*/MAG/*+은/JX/*,~
+*/VV/*+었/EP/*+나요/EF/*,~ed?
+*/VV/*+았/EP/*+어/EF/*,~
+*/NN/*+부터/JX/*,starting from ~
+*/VV/*+으려고/EC/*,in order to ~; intend to ~
+*/VV/*+었/EP/*+어/EF/*,~ed
+*/VV/*+었/EP/*+습니까/EF/*,~ed?
+*/NN/*+들/XSN/*+에게/JKB/*,to ~s
+*/VA/*+을/ETM/*,will be ~
+*/VA/*+어/EF/*,~
+*/NP/*+서/JKB/*,from ~
+*/VV/*+기/ETN/*+ᆯ/JKO/*,~ing
+*/NN/*+만/JX/*,~ only
+*/NN/*+까지/JX/*,to/until ~
+*/NP/*+까지/JX/*,to/until ~
+*/NN/*+까지/JX/*+만/JX/*,only to/until ~
+*/VV/*+지만/EC/*,"~, but..."
+*/VA/*+요/EF/*,~
+*/NP/*+보다/JKB/*,compared to/than ~
+*/VV/*+라고/EC/*,command to ~
+*/VV/*+으라고/EC/*,command to ~
+*/NP/*+에서/JKB/*,from ~
+*/NN/*+이/VCP/*+ᆫ가요/EF/*,is ~?
+*/NN/*+이/VCP/*+ᆫ가요/EC/*,is ~?
+*/VA/*+습니까/EF/*,~?
+*/VA/*+기/ETN/*,being ~
+*/VA/*+기/ETN/*+ᆫ/JX/*,being ~
+*/VA/*+기/ETN/*+도/JX/*,being ~ also; even being ~
+*/NP/*+도/JX/*,~ also
+*/NP/*+ᆯ/JKO/*,~
+*/VV/*+여/EC/*,~
+*/VV/*+었/EP/*+다고/EC/*,said that ~ed
+*/VV/*+ㅏㅆ/EP/*+다고/EC/*,said that ~ed
+*/VV/*+았/EP/*+지만/EC/*,"~ed, but..."
+*/VV/*+다고/EC/*,said that ~
+*/VA/*+다고/EC/*,said that ~
+*/VA/*+ᆯ/ETM/*,will be ~
+*/NR/*+시/NNBC/*+에/JKB/*,at ~ o'clock
+*/NP/*+에게/JKB/*+는/JX/*,to ~
+*/NN/*+처럼/JKB/*,like a ~
+*/NN/*+처럼/JKB/*+요/JX/*,like a ~.
+*/NN/*+이/JKC/*,~
+*/VV/*+ᆫ다고/EC/*,said that ~
+*/VA/*+ᆫ다고/EC/*,"said that ~ (note: root word incorrectly identified as adj by mecab)"
+*/VV/*+ㄴ다고/EC/*,said that ~
+*/VV/*+는가/EF/*,~?
+*/VV/*+ᆯ까요/EF/*,shall ~?
+*/VV/*+ᆯ까요/EC/*,shall ~?
+*/VA/*+ᆯ까요/EF/*,shall be ~?
+*/VV/*+ᆯ까/EC/*+요/JX/*,shall ~?
+*/VV/*+ᆯ까/EF/*+요/JX/*,shall ~?
+*/VV/*+ㄹ까/EC/*+요/JX/*,shall ~?
+*/VV/*+ᆯ까/EC/*,shall ~?
+*/VV/*+ᆯ/ETM/*+까요/EF/*,shall ~?
+*/VV/*+ᆫ다면/EC/*,what if ~?; suppose ~?
+*/NP/*+와/JKB/*,~ with
+*/NP/*+로/JKB/*,toward/using ~
+*/NN/*+이나/JC/*,"~, or"
+*/NN/*+이/VCP/*+라/EC/*,that is called ~
+*/NP/*+이/VCP/*+라/EC/*,that is called ~
+*/NN/*+이/VCP/*+ᆫ/ETM/*,being a ~
+*/NN/*+들/XSN/*+의/JKG/*,~s'
+*/VV/*+어/EC/*+요/JX/*,~
+*/VV/*+았/EP/*+기/ETN/*,having ~ed
+*/VV/*+아도/EC/*,"even if ~, still..."
+*/VV/*+ㅓ도/EC/*,"even if ~, still..."
+*/VV/*+아/EC/*+도/JX/*,"even if, still..."
+*/VV/*+습니까/EF/*,~?
+*/NN/*+하고/JC/*,~ and
+*/NN/*+마다/JX/*,each ~; every ~
+*/NN/*+들/XSN/*+마다/JX/*,each ~s; every ~s
+*/VV/*+았/EP/*+는데/EC/*,"~ed, but..."
+*/VV/*+ㅓㅆ/EP/*+는데/EC/*,"~ed, but..."
+*/VV/*+었었/EP/*+는데/EC/*,"~ed (long ago), but..."
+*/VV/*+ㅏㅆ었/EP/*+는데/EC/*,"~ed (long ago), but..."
+*/VV/*+었었/EP/*+고/EC/*,~ed (long ago) and...
+*/VV/*+았었/EP/*+고/EC/*,~ed (long ago) and...
+*/VA/*+어/EC/*+요/JX/*,~
+*/VA/*+어/EC/*,~
+*/VA/*+아서/EC/*,"~, so..."
+*/NR/*+도/JX/*,~ also
+*/NN/*+한테/JKB/*,to ~
+*/NN/*+한테/JKB/*+만/JX/*,only to ~
+*/VV/*+였/EP/*+다/EF/*,~ed
+*/VV/*+고/EC/*,~ and
+*/VA/*+지만/EC/*,"~, but..."
+*/VA/*+었/EP/*+다/EF/*,was ~
+*/NN/*+들/XSN/*+과/JKB/*,~s with
+*/NN/*+께서/JKS/*,~,honorific
+*/NP/*+께서/JKS/*,~,honorific
+*/NN/*+께서/JKS/*+도/JX/*,~ also,honorific
+*/NP/*+께서/JKS/*+도/JX/*,~ also,honorific
+*/NN/*+들/XSN/*+께서/JKS/*,~s,honorific
+*/NN/*+들/XSN/*+께서/JKS/*+는/JX/*,~s,honorific
+*/VV/*+었/EP/*+기/ETN/*,having ~ed
+*/VV/*+었/EP/*+고/EC/*,"~ed, and"
+*/VV/*+다가/EC/*,while ~ing
+*/VV/*+는데/EC/*,"~, but..."
+*/VV/*+는/ETM/*+데/NNB/*,"~, but..."
+*/VA/*+았/EP/*+습니다/EF/*,was ~
+*/VA/*+아/EF/*,~
+*/VA/*+나요/EF/*,~?
+*/NR/*+는/JX/*,~
+*/NN/*+들/XSN/*+만/JX/*,~s only
+*/NN/*+들/XSN/*+도/JX/*,~s also
+*/VV/*+을까요/EF/*,shall ~?
+*/VV/*+았/EP/*+으면/EC/*,if/when ~ed
+*/VV/*+었/EP/*+으면/EC/*,if/when ~ed
+*/VV/*+ㅏㅆ/EP/*+으면/EC/*,if/when ~ed
+*/VV/*+ㅓㅆ/EP/*+으면/EC/*,if/when ~ed
+*/VV/*+았/EP/*+다고/EC/*,said that ~ed
+*/VV/*+ᆫ/ETM/*,that ~ed
+*/VV/*+려면/EC/*,in order to ~
+*/VV/*+겠/EP/*+죠/EF/*,"(guessing; will) ~, right?"
+*/VV/*+겠/EP/*+네요/EF/*,"(guessing; will) ~!"
+*/VV/*+ㅕ/EF/*,~
+*/VV/*+ㅏㅆ/EP/*+습니다/EF/*,~ed
+*/VA/*+었/EP/*+어요/EF/*,was ~
+*/VA/*+았/EP/*+어요/EF/*,was ~
+*/VA/*+아/EC/*+지/VX/*+ᆯ/ETM/*,will become ~
+*/VV/*+아/EC/*+지/VX/*+ᆯ/ETM/*,will become ~
+*/VA/*+어/EC/*+지/VX/*+어서/EC/,"become ~, so..."
+*/VA/*+니/EF/*,~?
+*/NR/*+이/JKS/*,~
+*/NP/*+요/JX/*,~
+*/NN/*+이/VCP/*+ᄇ니까/EF/*,is ~?
+*/VV/*+었/EP/*+던/ETM/*,used to ~
+*/VV/*+어도/EC/*,"even if ~, still..."
+*/VA/*+어도/EC/*,"even if ~, still..."
+*/VV/*+았/EP/*+을/ETM/*,would ~
+*/VV/*+았/EP/*+는가/EF/*,~ed?
+*/VV/*+며/EC/*,while ~
+*/VV/*+는지/EC/*,[indirect question] if ~?
+*/VV/*+는지/EC/*+는/JX/*,[indirect question] if ~?
+*/VV/*+는지/EC/*+가/JKS/*,[indirect question] if ~?
+*/VA/*+는지/EC/*+도/JX/*,[indirect question] if also ~?; if even ~?
+*/VV/*+기/ETN/*+가/JKS/*,~ing
+*/VV/*+겠/EP/*+다고/EC/*,"(said that) will ~, about to ~"
+*/VV/*+ㅏ/EF/*,~
+*/VA/*+어/EC/*+지/VX/*+었/EP/*+습니다/EF/*,became ~
+*/VA/*+았/EP/*+던/ETM/*,used to be ~
+*/VA/*+었/EP/*+던/ETM/*,used to be ~
+*/VA/*+ᄇ니까/EF/*,~?
+*/NN/*+이/VCP/*+었/EP/*+다/EF/*,was ~
+*/NN/*+이/VCP/*+라서/EC/*,because it's a ~
+*/NN/*+이/VCP/*+라는/ETM/*,that is called ~
+*/NN/*+에게/JKB/*+는/JX/*,to ~
+*/NN/*+에/JKB/*+도/JX/*,at/to ~ also
+*/MAG/*+는/JX/*,~
+*/VV/*+으면/EC/*,if/when ~
+*/VV/*+았/EP/*+던/ETM/*,used to ~
+*/VV/*+아/EC/*+었/EP/*+습니다/EF/*,~ed
+*/VV/*+겠/EP/*+어요/EF/*,"will ~, about to ~"
+*/VV/*+겠/EP/*+어/EF/*,"will ~, about to ~"
+*/VA/*+어서/EC/*,"~, so..."
+*/NP/*+이/VCP/*+ㅔ요/EF/*,is ~
+*/NN/*+이/VCP/*+었/EP/*+어요/EF/*,was ~
+*/NN/*+이/VCP/*+기/ETN/*,being ~
+*/NN/*+이/VCP/*+ᆫ지/EC/*,[indirect question] is ~?
+*/NP/*+이/VCP/*+ᆫ지/EC/*,[indirect question] is ~?
+*/NN/*+으로/JKB/*+는/JX/*,toward/using ~
+*/NN/*+에/JKB/*+만/JX/*,at/to ~ only
+*/NN/*+에/JKB/*+ᆫ/JX/*,at/to ~
+*/NP/*+에/JKB/*+ᆫ/JX/*,at/to ~
+*/NN/*+만큼/JKB/*,like a ~; as much as ~
+*/NN/*+만/JX/*+을/JKO/*,~ only
+*/NN/*+가/JKC/*,~
+*/VV/*+지/EF/*,Let's ~
+*/VV/*+었/EP/*+지만/EC/*,"~ed, but..."
+*/VV/*+었/EP/*+으니/EC/*,~ed?,???
+*/VV/*+았/EP/*+으니/EC/*,~ed?,???
+*/VV/*+으니/EC/*,~ and realized...,???
+*/VV/*+도/EC/*,~ also
+*/VV/*+겠/EP/*+습니다/EF/*,"will ~, about to ~"
+*/VV/*+ㅓㅆ/EP/*+어요/EF/*,~ed
+*/VA/*+은지/EC/*,[indirect question] is ~?
+*/VA/*+었/EP/*+습니까/EF/*,was ~?
+*/VA/*+았/EP/*+다/EF/*,was ~
+*/VA/*+기/ETN/*+를/JKO/*,being ~
+*/VA/*+ㄴ지/EC/*,[indirect question] is ~?
+*/NN/*+이/VCP/*+ᆯ/ETM/*,will be ~
+*/NN/*+요/JX/*,~
+*/NN/*+만/JX/*+요/JX/*,only ~
+*/NN/*+로/JKB/*+는/JX/*,toward/using ~
+*/NN/*+들/XSN/*,~s
+*/NN/*+과/JKB/*+는/JX/*,with ~
+*/VV/*+지/EC/*+도/JX/*,not even ~
+*/VV/*+으러/EC/*,in order to ~
+*/VV/*+았/EP/*+는지/EC/*,[indirect question] ~ed?
+*/VV/*+기/ETN/*+이/VCP/*+라고/EC/*,said that is ~ing
+*/VV/*+ㅕㅆ/EP/*+어요/EF/*,~ed
+*/VV/*+ㅓ/EF/*,~
+*/VV/*+ㅏㅆ었/EP/*+습니다/EF/*,~ed (long ago)
+*/VV/*+ᆯ게요/EF/*,will ~ (for someone)
+*/VV/*+ᆯ게요/EC/*,will ~ (for someone)
+*/VA/*+는데/EC/*,"~, but..."
+*/VA/*+네요/EF/*,is ~!
+*/VA/*+네요/EC/*,is ~!
+*/VA/*+거나/EC/*,~ or
+*/NP/*+이/VCP/*+ᆫ가/EC/*,is ~?
+*/NP/*+이/VCP/*+ᄇ니까/EF/*,is ~?
+*/NN/*+이/VCP/*+지만/EC/*,"is ~, but..."
+*/NN/*+이/VCP/*+고/EC/*,"is ~, and..."
+*/NN/*+들/XSN/*+에/JKB/*+는/JX/*,at/to ~s
+*/NN/*+들/XSN/*+에/JKB/*,at/to ~s
+*/NN/*+들/XSN/*+보다/JKB/*,compared to/than ~s
+*/NN/*+나/JC/*,"~, or"
+*/VV/*+자/EC/*,Let's ~
+*/VV/*+으면서/EC/*,while ~
+*/VV/*+었었/EP/*+습니다/EF/*,~ed (long ago)
+*/VV/*+었/EP/*+으며/EC/*,while ~ed
+*/VV/*+었/EP/*+는가/EF/*,~ed?
+*/VV/*+았었/EP/*+어요/EF/*,~ed (long ago)
+*/VV/*+었었/EP/*+어요/EF/*,~ed (long ago)
+*/VV/*+ㅓㅆ었/EP/*+어요/EF/*,~ed (long ago)
+*/VV/*+았었/EP/*+다/EF/*,~ed (long ago)
+*/VV/*+나/EF/*,~?
+*/VV/*+았/EP/*+나/EC/*,~ed?
+*/VV/*+았/EP/*+고/EC/*,~ed and
+*/VV/*+기/ETN/*+도/JX/*,~ing also
+*/VV/*+았/EP/*+거든/EF/*,because ~ed (just so you know)
+*/VV/*+거든/EF/*,because ~ (just so you know)
+*/VA/*+거든/EF/*,because ~ (just so you know)
+*/NN/*+이/VCP/*+었/EP/*+거든요/EF/*,because was ~ (just so you know)
+*/VV/*+았었/EP/*+거든요/EF/*,"~ed (long ago) (just so you know)"
+*/VV/*+ㅓㅆ/EP/*+습니다/EF/*,~ed
+*/VV/*+ㅓ/EC/*+지/VX/*+ㅓ/EC/*,become ~
+*/VV/*+ㅓ/EC/*+지/VX/*+ㅓ요/EF/*,become ~
+*/VV/*+ㅂ니까/EF/*,~?
+*/VV/*+ㄴ다/EF/*,~
+*/VV/*+ᆯ/ETM/*+거/NNB/*+이/VCP/*+라고/EC/*,said that will ~
+*/VA/*+으면/EC/*,if/when ~
+*/VA/*+었/EP/*+을/ETM/*,would be ~
+*/VA/*+었/EP/*+어/EF/*,was ~
+*/VA/*+어/EC/*+지/VX/*+ᄇ니다/EF/*,become ~
+*/VA/*+았/EP/*+어/EF/*,was ~
+*/VA/*+았/EP/*+나요/EF/*,was ~?
+*/VA/*+ᆫ다/EF/*,~
+*/NP/*+처럼/JKB/*,like ~
+*/NP/*+이/VCP/*+라고/EC/*,said that is ~
+*/NP/*+부터/JX/*,starting from ~
+*/NP/*+ㄴ/JX/*,~
+*/NN/*+이/VCP/*+었/EP/*+을/ETM/*,would be ~
+*/NN/*+이/VCP/*+었/EP/*+습니까/EF/*,was ~?
+*/NN/*+이/VCP/*+ᆫ데/EC/*,"is ~, but..."
+*/NP/*+이/VCP/*+ᆫ데/EC/*,"is ~, but..."
+*/NN/*+이/VCP/*+ㄴ데/EF/*,"is ~, but..."
+*/NN/*+에서/JKB/*+는/JX/*,from ~
+*/NN/*+께/JKB/*,to ~,honorific
+*/NP/*+께/JKB/*,to ~,honorific
+*/NN/*+들/XSN/*+께/JKB/*,to ~s,honorific
+*/NP/*+들/XSN/*+께/JKB/*,to ~s,honorific
+*/NN/*+까지/JX/*+는/JX/*,to/until ~
+*/MAG/*+부터/JX/*,starting from ~
+*/MAG/*+도/JX/*,~ also
+*/VV/*+였/EP/*+고/EC/*,~ed and
+*/VV/*+여요/EF/*,~
+*/VV/*+었/EP/*+을/ETM/*,would ~
+*/VV/*+었/EP/*+는데/EC/*,"~ed, but..."
+*/VV/*+었/EP/*+네요/EF/*,~ed!
+*/VV/*+았/EP/*+네요/EF/*,~ed!
+*/VV/*+ㅏㅆ/EP/*+네요/EF/*,~ed!
+*/VV/*+았/EP/*+어/EC/*,~ed
+*/VV/*+아/EC/*+요/JX/*,~
+*/VV/*+던/ETM/*,used to ~
+*/VV/*+니까/EC/*,"~ (as you know), so...; ~, so do..."
+*/VV/*+니/EC/*,"[<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90cf26"">same as ~니까</a>] ~ (as you know), so...; ~, so do..."
+*/VV/*+겠/EP/*+습니까/EF/*,will ~?
+*/VV/*+겠/EP/*+다/EF/*,will ~; guessing that ~
+*/VV/*+거나/EC/*,~ or
+*/VV/*+ㅓㅆ/EP/*+지만/EC/*,"~ed, but..."
+*/VV/*+ㅏㅆ/EP/*+나요/EF/*,~ed?
+*/VV/*+ㅏ/EC/*,~
+*/VV/*+ㄹ까요/EF/*,shall ~?
+*/VV/*+ㄹ/ETM/*+것/NNB/*+이/JKS/*+요/JX/*,will ~
+*/VV/*+ᆯ/ETM/*+것/NNB/*+이/JKS/*+요/MM/*,will ~
+*/VV/*+ㄹ/ETM/*,will ~
+*/VV/*+ㄴ/ETM/*,that ~ed
+*/VA/*+지/EC/*+도/JX/*,not even ~
+*/VA/*+여/EC/*,~
+*/VA/*+었/EP/*+지만/EC/*,"was ~, but..."
+*/VA/*+었/EP/*+는가/EF/*,was ~?
+*/VA/*+었/EP/*+나요/EF/*,was ~?
+*/VA/*+았었/EP/*+습니다/EF/*,was ~ (long ago)
+*/VA/*+았었/EP/*+나요/EF/*,was ~ (long ago)?
+*/VA/*+았/EP/*+으면/EC/*,if/when was ~
+*/VA/*+았/EP/*+습니까/EF/*,was ~?
+*/VA/*+았/EP/*+는데/EC/*,"was ~, but..."
+*/VA/*+었/EP/*+는데/EC/*,"was ~, but..."
+*/VA/*+아/EC/*+지/VX/*+었/EP/*+어요/EF/*,became ~
+*/VA/*+아/EC/*+요/JX/*,~
+*/VA/*+군요/EF/*,I realize that ~!
+*/VA/*+겠/EP/*+습니다/EF/*,will ~; guessing that ~
+*/VA/*+겠/EP/*+네요/EF/*,will ~!; guessing that ~!
+*/VA/*+ㅕ/EC/*+요/JX/*,~
+*/VA/*+ㅓ요/EF/*,~
+*/VA/*+ㅏㅆ/EP/*+으면/EC/*,if/when was ~
+*/VA/*+ᆫ가요/EF/*,~?
+*/VV/*+ᆫ가요/EF/*,~?
+*/VA/*+ᆫ/ETM/*+가요/NNG/*,~?
+*/NR/*+시/NNBC/*+가/JKC/*,~ o'clock
+*/NR/*+를/JKO/*,~
+*/NP/*+이/VCP/*+다/EF/*,is ~
+*/NP/*+이/VCP/*+냐/EF/*,is ~?
+*/VA/*+았/EP/*+냐는/ETM/*,was ~?
+*/NP/*+에/JKB/*+는/JX/*,at/to ~
+*/NN/*+하고/JKB/*,~ and
+*/NN/*+이/VCP/*+요/EC/*,is ~
+*/NN/*+이/VCP/*+었/EP/*+나요/EF/*,was ~?
+*/NN/*+이/VCP/*+니/EF/*,is ~?
+*/NN/*+이/VCP/*+냐/EC/*,is ~?
+*/NN/*+이/VCP/*+기/ETN/*+로/JKB/*,toward/using being a ~
+*/NN/*+이/VCP/*+ᆫ가/EF/*,is a ~?
+*/NN/*+으로/JKB/*+나/JC/*,"toward/using a ~, or"
+*/NN/*+와/JKB/*,~ with
+*/VV/*+으니까/EC/*,"~ (as you know), so...; ~, so do..."
+*/VV/*+었/EP/*+다가/EC/*,while was ~ing
+*/VV/*+었/EP/*+네/EF/*,~ed!
+*/VV/*+었/EP/*+구나/EF/*,I realize that ~ed!
+*/VA/*+구나/EF/*,I realize that ~!
+*/NN/*+이/VCP/*+구나/EF/*,I realize that is ~!
+*/NN/*+이/VCP/*+구나/EC/*,I realize that is ~!
+*/VV/*+어야/EC/*+하/VX/*+겠/EP/*+어요/EF/*,must ~
+*/VV/*+았/EP/*+으며/EC/*,while ~ed
+*/VV/*+았/EP/*+으니까/EC/*,"~ed (as you know), so...; ~ed, so do..."
+*/VV/*+었/EP/*+으니까/EC/*,"~ed (as you know), so...; ~ed, so do..."
+*/VV/*+았/EP/*+니/EF/*,~ed?
+*/VV/*+았/EP/*+네/EF/*,~ed!
+*/VV/*+아야/EC/*+하/VX/*+겠/EP/*+다고/EC/*,said that must ~
+*/VV/*+ᆯ/ETM/*,will ~
+*/VV/*+도록/EC/*,"in order to ~, do..."
+*/VV/*+는군요/EF/*,I realize that ~!
+*/VV/*+는가/EC/*,~?
+*/VV/*+겠/EP/*+다/EC/*,will ~; guessing that ~
+*/VV/*+거든요/EF/*,because ~ (just so you know)
+*/VV/*+ㅕ서/EC/*,"~, so..."
+*/VV/*+ㅕㅆ/EP/*+습니다/EF/*,~ed
+*/VV/*+ㅕㅆ/EP/*+습니까/EF/*,~ed?
+*/VV/*+ㅕㅆ/EP/*+나요/EF/*,~ed?
+*/VV/*+ㅓㅆ었/EP/*+어/EF/*,~ed (long ago)
+*/VV/*+ㅓㅆ/EP/*+어/EF/*,~ed
+*/VV/*+ㅓㅆ/EP/*+나요/EF/*,~ed?
+*/VV/*+ㅏㅆ었/EP/*+나요/EF/*,~ed (long ago)?
+*/VV/*+ㅏㅆ/EP/*+습니까/EF/*,~ed?
+*/VV/*+ㅏㅆ/EP/*+는데/EC/*,"~ed, but..."
+*/VV/*+ㅂ니다/EF/*,~
+*/VV/*+ㄹ까/EF/*,shall ~?
+*/VV/*+ㄹ/ETM/*+까요/EF/*,shall ~?
+*/VV/*+ᆯ까/EF/*,shall ~?
+*/VCN/*+었/EP/*+으며/EC/*,while wasn't
+*/VCN/*+었/EP/*+어요/EF/*,wasn't
+*/VCN/*+었/EP/*+습니까/EF/*,wasn't?
+*/VCN/*+야/EF/*,isn't
+*/VCN/*+면/EC/*,if not
+*/VV/*+죠/EF/*,"~, right?"
+*/VA/*+죠/EF/*,"~, right?"
+*/VA/*+었/EP/*+으면/EC/*,if/when wasn't ~
+*/VA/*+었/EP/*+는지/EC/*,[indirect question] if was ~
+*/VA/*+았/EP/*+는지/EC/*,[indirect question] if was ~
+*/VA/*+었/EP/*+고/EC/*,"was ~, and..."
+*/VA/*+았/EP/*+고/EC/*,"was ~, and..."
+*/VA/*+서/EC/*,"~, so..."
+*/VA/*+던/ETM/*,used to be ~
+*/VA/*+는가/EF/*,~?
+*/VA/*+ㄴ가/EF/*,~?
+*/VA/*+네/EF/*,is ~!
+*/VA/*+기/ETN/*+로/JKB/*,toward/using being ~
+*/VA/*+겠/EP/*+는가/EF/*,will be ~?; guessing that ~?
+*/VA/*+겠/EP/*+지요/EF/*,"will be ~, right?; guessing that ~, right?"
+*/VA/*+지요/EF/*,"~, right?"
+*/VA/*+거든요/EF/*,because ~ (just so you know)
+*/VA/*+ㅕㅆ/EP/*+어/EF/*,was ~
+*/VA/*+ㅓ/EF/*,~
+*/VA/*+ㅏㅆ/EP/*+어/EF/*,was ~
+*/VA/*+ᆫ가/EF/*,~?
+*/NP/*+이/VCP/*+ᆫ가요/EF/*,is ~?
+*/NP/*+이/VCP/*+ᆫ가/EF/*,is ~?
+*/NP/*+만/JX/*,~ only
+*/NN/*+이/VCP/*+잖/UNA/*+아요/EF/*,is a ~ (as you know)
+*/NN/*+이/VCP/*+었/EP/*+는데/EC/*,"was a ~, but..."
+*/NN/*+이/VCP/*+었/EP/*+고/EC/*,"was a ~, and"
+*/NN/*+이/VCP/*+었/EP/*+어/EC/*,was a ~
+*/NN/*+이/VCP/*+어요/EF/*,is a ~
+*/NN/*+이/VCP/*+며/EC/*,while is a ~
+*/NN/*+이/VCP/*+니까/EC/*,"is a ~ (as you know), so...; is a ~, so do..."
+*/NN/*+들/XSN/*+이/VCP/*+니까/EC/*,"is ~s (as you know), so...; is ~s, so do..."
+*/NN/*+이/VCP/*+군요/EF/*,I realize that is ~!
+*/NN/*+에/JKB/*+요/JX/*,at/to ~
+*/NN/*+에/JKB/*+는/JX/*+요/JX/*,at/to ~
+*/NN/*+밖에/JX/*,besides ~
+*/NP/*+밖에/JX/*,besides ~
+*/NN/*+들/XSN/*+하고/JKB/*,~s and
+*/NN/*+들/XSN/*+처럼/JKB/*,like ~s
+*/NN/*+들/XSN/*+이/VCP/*+ᆫ가요/EF/*,is ~s?
+*/NN/*+들/XSN/*+이/VCP/*+ᆫ가요/EC/*,is ~s?
+*/NN/*+에게서/JKB/*,from ~
+*/NP/*+에게서/JKB/*,from ~
+*/NN/*+한테서/JKB/*,from ~
+*/NP/*+한테서/JKB/*,from ~
+*/VV/*+었/EP/*+어/EC/*,~ed
+*/NP/*+이/VCP/*+야/EF/*,is ~
+*/VA/*+아/EC/*,~
+*/VV/*+네요/EF/*,~!
+*/VV/*+네요/EC/*,~!
+*/VV/*+네/EF/*,~!
+*/NN/*+들/XSN/*+로/JKB/*,toward/using ~s
+*/NR/*+뿐/JX/*+이/VCP/*+ᆫ/ETM/*,only ~
+*/NN/*+이나/JX/*,~ or
+*/NN/*+들/XSN/*+이나/JX/*,~s or
+*/NN/*+들/XSN/*+이나/JC/*,~s or
+*/NR/*+을/JKO/*,~
+*/VA/*+았/EP/*+지만/EC/*,"was ~, but..."
+*/VA/*+는지/EC/*,[indirect question] if ~?
+*/VV/*+어/EC/*+주/VX/*+ᆯ/ETM/*,will ~ (as a favour)
+*/NN/*+부터/JX/*+는/JX/*,starting from ~
+*/VA/*+기/ETN/*+는/JX/*,being ~
+*/VA/*+았/EP/*+다고/EC/*,said that was ~
+*/VA/*+었/EP/*+다고/EC/*,said that was ~
+*/VA/*+겠/EP/*+다고/EC/*,said that will be ~; said that guessing is ~
+*/VV/*+으려면/EC/*,in order to ~
+*/VA/*+도록/EC/*,"in order to ~, do..."
+*/VA/*+으니까/EC/*,"~ (as you know), so ...; ~, so do..."
+*/VA/*+니까/EC/*,"~ (as you know), so ...; ~, so do..."
+*/VV/*+을까/EF/*,shall we ~?
+*/VV/*+ㅏ서/EC/*,"~, so..."
+*/NN/*+뿐/JX/*+이/VCP/*+었/EP/*+다/EF/*,was only ~
+*/NN/*+이/VCP/*+래요/EF/*,I heard that is ~
+*/VV/*+는대요/EF/*,I heard that ~
+*/VA/*+대요/EF/*,I heard that ~
+*/VA/*+ᆫ지/EC/*,[indirect question] if is ~?
+*/VV/*+ㅓ서/EC/*,"~, so..."
+*/VV/*+어요/EC/*,~
+*/VV/*+어서/EC/*,"~, so..."
+*/VA/*+ㅓㅆ/EP/*+어요/EF/*,was ~
+*/VA/*+겠/EP/*+어요/EF/*,will be ~; guessing that is ~
+*/VA/*+겠/EP/*+어/EF/*,will be ~; guessing that is ~
+*/NN/*+이/VCP/*+야/EC/*,must be ~
+*/VA/*+아/EC/*+지/VX/*+었/EP/*+어/EF/*,became ~
+*/NR/*+은/JX/*,~
+*/NP/*+이/VCP/*+었/EP/*+어요/EF/*,was ~
+*/VV/*+으며/EC/*,while ~
+*/VV/*+ᆫ/ETM/*+지/NNB/*,[indirect question] if ~ed?
+*/VV/*+ㅏ야/EC/*+하/VX/*+겠/EP/*+다고/EC/*,said that will have to ~; said that guessing have to ~
+*/VV/*+았/EP/*+대요/EF/*,I heard that ~ed
+*/VV/*+었/EP/*+대요/EF/*,I heard that ~ed
+*/VV/*+래요/EF/*,I was told to ~
+*/VA/*+겠/EP/*+죠/EF/*,"(guessing; will be) ~, right?"
+*/NN/*+이/VCP/*+ᆯ까/EF/*,shall we be ~?; wondering if is ~?
+*/NP/*+한테/JKB/*,to ~
+*/NN/*+이/VCP/*+냐고/EC/*,"[indirect question] if is ~? (<a href=""https://www.youtube.com/watch?v=j7dmqbz6wWQ&t=232s"">ref</a>)"
+*/VV/*+았/EP/*+죠/EF/*,"~ed, right?"
+*/NP/*+에/JKB/*+도/JX/*,at/to ~ also
+*/VV/*+ㄹ게요/EF/*,will ~ (for someone)
+*/VV/*+을게요/EC/*,will ~ (for someone)
+*/NP/*+이/VCP/*+ᆯ까요/EF/*,shall we be ~?; wondering if is ~?
+*/VA/*+ᆯ까/EC/*,shall we be ~?; wondering if is ~?
+*/NP/*+이/VCP/*+ᆯ/ETM/*,will be ~
+*/VA/*+아/EC/*+지/VX/*+어/EC/*,become ~
+*/NN/*+들/XSN/*+까지/JX/*+도/JX/*,to/until ~ also
+*/VA/*+였/EP/*+다/EF/*,was ~
+*/VA/*+다면/EC/*,(hypothetically) if ~
+*/VV/*+다면/EC/*,(hypothetically) if ~
+*/NN/*+이/VCP/*+오/EF/*,is ~,poetic
+*/VV/*+오/EF/*,~,poetic
+*/NP/*+들/XSN/*+에게/JKB/*,to ~s
+*/VV/*+어서/EC/*+도/JX/*,"~ also, so..."
+*/VV/*+아서/EC/*+도/JX/*,"~ also, so..."
+*/VV/*+으면서/EC/*+도/JX/*,"also while ~; even while ~"
+*/VV/*+자마자/EC/*,as soon as ~
+*/VV/*+고/EC/*+만/JX/*,just/only ~ing (when followed by 있다)
+*/NN/*+서/JKB/*,at/in/from ~
+*/VA/*+었/EP/*+거든요/EF/*,because was ~ (just so you know)
+*/VA/*+았/EP/*+거든요/EF/*,because was ~ (just so you know)
+*/VV/*+었/EP/*+거든/EF/*,because ~ed (just so you know)
+*/VV/*+었/EP/*+거든요/EF/*,because ~ed (just so you know)
+*/VV/*+았/EP/*+거든요/EF/*,because ~ed (just so you know)
+*/NN/*+이/VCP/*+거든요/EF/*,because is ~ (just so you know)
+*/NN/*+이/VCP/*+거든/EF/*,because is ~ (just so you know)
+*/NN/*+이/VCP/*+었/EP/*+기/ETN/*,having been a ~
+*/VV/*+았/EP/*+을까요/EF/*,wonder if ~ed; would have ~?
+*/VV/*+었/EP/*+을까요/EF/*,wonder if ~ed; would have ~?
+*/NN/*+이/VCP/*+지요/EF/*,"is a ~, right?"
+*/NN/*+이/VCP/*+지/EF/*,"is a ~, right?"
+*/VV/*+으려고요/EF/*,"intend/plan to ~, right?"
+*/VV/*+려는/ETM/*,that intend/plan to ~
+*/VV/*+잖아/EC/*,"don't you see that ~; ~, you know!; ~, isn't it?"
+*/VV/*+잖아/EF/*,"don't you see that ~; ~, you know!; ~, isn't it?"
+*/VA/*+잖아/EC/*,"don't you see that ~; ~, you know!; ~, isn't it?"
+*/VA/*+잖아/EF/*,"don't you see that ~; ~, you know!; ~, isn't it?"
+*/VV/*+잖아요/EC/*,"don't you see that ~; ~, you know!; ~, isn't it?"
+*/VV/*+잖아요/EF/*,"don't you see that ~; ~, you know!; ~, isn't it?"
+*/VA/*+잖아요/EC/*,"don't you see that ~; ~, you know!; ~, isn't it?"
+*/VA/*+잖아요/EF/*,"don't you see that ~; ~, you know!; ~, isn't it?"
+*/VV/*+ㅕㅆ/EP/*+잖아요/EF/*,"don't you see that ~ed; ~ed, you know!; ~ed, wasn't it?"
+*/VV/*+었/EP/*+잖아요/EF/*,"don't you see that ~ed; ~ed, you know!; ~ed, wasn't it?"
+*/VV/*+았/EP/*+잖아요/EF/*,"don't you see that ~ed; ~ed, you know!; ~ed, wasn't it?"
+*/VA/*+았/EP/*+잖아요/EF/*,"don't you see that was ~; was ~, you know!; was ~, wasn't it?"
+*/VA/*+었/EP/*+잖아요/EF/*,"don't you see that was ~; was ~, you know!; was ~, wasn't it?"
+*/VV/*+었/EP/*+잖아요/EC/*,"don't you see that ~ed; ~ed, you know!; ~ed, wasn't it?"
+*/VV/*+았/EP/*+잖아요/EC/*,"don't you see that ~ed; ~ed, you know!; ~ed, wasn't it?"
+*/VA/*+었/EP/*+잖아/EF/*,"don't you see that was ~; was ~, you know!; was ~, wasn't it?"
+*/VV/*+았/EP/*+지/EC/*+않/VX/*+아요/EF/*,"don't you see that ~ed; ~ed, you know!; ~ed, wasn't it?"
+*/NN/*+이/VCP/*+잖/UNA/*+아/EF/*,"don't you see that is ~; is ~, you know!; is ~, isn't it?"
+*/NN/*+이/VCP/*+지/EC/*+않/VX/*+아요/EF/*,"don't you see that is ~; is ~, you know!; is ~, isn't it?"
+*/VV/*+자고/EC/*,[quoted proposal] let's ~
+*/VV/*+ᆯ게/EF/*,will ~ (for someone)
+*/VV/*+ᆯ/ETM/*+것/NNB/*+이/JKS/*,will ~
+*/VV/*+었/EP/*+군요/EF/*,I realize that ~ed
+*/VV/*+았/EP/*+군요/EF/*,I realize that ~ed
+*/VV/*+었/EP/*+는지/EC/*,[indirect question] if ~ed?
+*/VV/*+었/EP/*+는데/EC/*+도/JX/*,"even though ~ed, ..."
+*/NN/*+들/XSN/*+에게/JKB/*+는/JX/*,to ~s
+*/VV/*+었/EP/*+는데도/EC/*,"even though ~ed, ..."
+*/VV/*+ᆫ다고요/EF/*,Said that ~
+*/VV/*+ᆫ다고/EC/*+요/JX/*,said that ~
+*/VA/*+다고요/EC/*,said that ~,???
+*/NP/*+이/VCP/*+라고요/EF/*,Said that is ~
+*/VV/*+었/EP/*+다고요/EF/*,Said that ~ed
+*/VA/*+은데요/EF/*,But ~
+*/VA/*+은데/EC/*,"~, but..."
+*/VA/*+는/ETM/*,~
+*/VV/*+ᆯ지/EC/*,[indirect question] if will ~?
+*/NP/*+랑/JKB/*,with ~
+*/NP/*+이/VCP/*+냐/EC/*,asked is ~?
+*/VV/*+ᆫ대/EF/*,I hear that ~
+*/VV/*+을지/EC/*,[indirect question] if will ~?
+*/VV/*+을지/EC/*+는/JX/*,[indirect question] if will ~?
+*/VV/*+ᆯ지/EC/*+는/JX/*,[indirect question] if will ~?
+*/VA/*+기/ETN/*+ᆯ/JKO/*,being ~
+*/VV/*+였/EP/*+습니다/EF/*,~ed
+*/VV/*+았었/EP/*+습니다/EF/*,~ed (long ago)
+*/VA/*+ㅂ니다/EF/*,~
+*/VV/*+어/EC/*+지/VX/*+ᆫ/ETM/*,that became ~
+*/VV/*+았/EP/*+지요/EF/*,asked if ~ed?
+*/VV/*+까요/EF/*,shall ~?
+*/NR/*+과/JC/*,~ with
+*/NR/*+가/JKS/*,~
+*/NP/*+랑/JC/*,with ~
+*/NN/*+이/VCP/*+랄까요/EF/*,shall be called ~?
+*/NN/*+만/JX/*+으로/JKB/*+도/JX/*,only toward/using ~
+*/VV/*+았/EP/*+다면/EC/*,(hypothetically) if ~ed
+*/VV/*+었/EP/*+다면/EC/*,(hypothetically) if ~ed
+*/NP/*+랑/JKB/*+도/JX/*,with ~ also
+*/VV/*+을까/EC/*,shall ~?
+*/VA/*+겠/EP/*+지만/EC/*,"will be ~, but...; guessing that ~, but..."
+*/VV/*+기/ETN/*+는/JX/*,~ing
+*/VV/*+었/EP/*+지/EF/*,I asked if ~ed
+*/NN/*+이/VCP/*+랍니까/EF/*,is called ~?
+*/NN/*+이/VCP/*+기/ETN/*+를/JKO/*,being a ~
+*/VV/*+았/EP/*+지/EF/*,I asked if ~ed
+*/VV/*+ᆯ지/EC/*+를/JKO/*,[indirect question] if will ~?
+*/VV/*+기/ETN/*+에/JKB/*+는/JX/*,to ~ing
+*/VV/*+기/ETN/*+에/JKB/*,to ~ing
+*/VV/*+기/ETN/*+에/JKB/*+도/JX/*,to ~ing also
+*/VA/*+았/EP/*+기/ETN/*,having been ~
+*/VV/*+어/EC/*+지/VX/*+었/EP/*+다/EF/*,became ~
+*/NP/*+으로서/JKB/*,as ~
+*/NP/*+로서/JKB/*+도/JX/*,also as ~; even as ~
+*/NR/*+이/VCP/*+에요/EF/*,is ~
+*/VV/*+는대/EF/*,I hear that ~
+*/VA/*+어요/EC/*,~
+*/VA/*+어/EC/*+지/VX/*+ㅓㅆ/EP/*+어요/EF/*,became ~
+*/VA/*+어/EC/*+지/VX/*+ᆯ/ETM/*,will become ~
+*/VA/*+어/EC/*+지/VX/*+ㅓㅆ/EP/*+어/EF/*,became ~
+*/VV/*+어/EC/*+지/VX/*+었/EP/*+어요/EF/*,became ~ing
+*/VA/*+어/EC/*+지/VX/*+었/EP/*+어요/EF/*,became ~
+*/VV/*+어다/EC/*,~ and (then)...
+*/VV/*+곤/EC/*,"1. [V-곤 하다] habitually ~ (<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/62e1d6ed9a50ba002e20a44b"">ref</a>)
+2. ~, and then (as a consequence)... (<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/62e1d6ed9a50ba002e20a449"">ref</a>)"
+*/NN/*+조차/JX/*,"(not) even ~ (<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e98a0b20af306c90d356"">ref</a>)"
+*/VV/*+았/EP/*+고요/EF/*,"~ed, and... (sentence end, but thought not done [<a href=""https://www.youtube.com/watch?v=ygFX0zqkt9M&t=983s"">ref</a>])"
+*/VV/*+었/EP/*+고요/EF/*,"~ed, and... (sentence end, but thought not done [<a href=""https://www.youtube.com/watch?v=ygFX0zqkt9M&t=983s"">ref</a>])"
+*/VA/*+았/EP/*+고요/EF/*,"was ~, and... (sentence end, but thought not done [<a href=""https://www.youtube.com/watch?v=ygFX0zqkt9M&t=983s"">ref</a>])"
+*/VA/*+었/EP/*+고요/EF/*,"was ~, and... (sentence end, but thought not done [<a href=""https://www.youtube.com/watch?v=ygFX0zqkt9M&t=983s"">ref</a>])"
+*/VV/*+은데/EF/*,"~ (providing background information, or expressing thought contrary to what was previously said [<a href=""https://www.youtube.com/watch?v=6kVYxc0OdwU&t=5842s"">ref</a>])"
+*/VV/*+어야/EC/*+하/VX/*+겠/EP/*+다고/EC/*,said that (guessing) would have to ~
+*/VV/*+고는/EC/*,"1. [V-고는 하다] habitually ~ (<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/62e1d6dd9a50ba002e20a3b7"">ref</a>)
+2. ~, and then (as a consequence)... (<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/62e1d6dd9a50ba002e20a39b"">ref</a>)"
+*/VV/*+어/EC/*+지/VX/*+었/EP/*+는데/EC/*,"became ~, but..."
+*/VV/*+았/EP/*+더니/EC/*,"~ed, whereupon ... (showing contrast, observation [<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90cfa5"">ref</a>])"
+*/VV/*+었/EP/*+더니/EC/*,"~ed, whereupon ... (showing contrast, observation [<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90cfa5"">ref</a>])"
+*/VV/*+더니/EC/*,"~, whereupon ... (showing contrast, observation [<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90cfa5"">ref</a>])"
+*/VA/*+게/EC/*+도/JX/*,so that ~ also; ~ly also
+*/VV/*+느라고/EC/*,"because ~; with the intention of ~; in order to ~ (<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90ce79"">ref</a>)"
+*/VV/*+느라/EC/*,"because ~; with the intention of ~; in order to ~ (<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90ce79"">ref</a>)"
+*/VA/*+을지/EC/*,"[indirect question] will/would be ~?",???
+*/NP/*+에다/JKB/*,"(in addition to) at/to ~; at/to ~ (emphasizing a transfer of time/place) (<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e98a0b20af306c90d26b"">ref</a>)"
+*/NN/*+에다/JKB/*,"(in addition to) at/to ~; at/to ~ (emphasizing a transfer of time/place) (<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e98a0b20af306c90d26b"">ref</a>)"
+*/NN/*+이야말로/JX/*,"~ indeed; ~ certainly (<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/62e22cd09af00c002e6ee34b"">ref</a>)"
+*/NN/*+이/VCP/*+곤/EC/*,"[N-이곤 했다] used to be ~"
+*/VV/*+ᆯ지/EC/*+도/JX/*,[indirect question] if even will ~
+*/VA/*+다는/ETM/*,"[<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90cf41"">A-다는 N</a>] N about which they say is ~ (abbreviation for A-다고 하는 N)"
+*/VA/*+ᆫ다는/ETM/*,"[<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90cf41"">A-다는 N</a>] N about which they say is ~ (abbreviation for A-다고 하는 N)"
+*/VV/*+ᆫ다는/ETM/*,"[V-ㄴ다는 N] N about which they say is ~ (abbreviation for V-ㄴ다고 하는 N; indirect quotation)
+[V-ㄴ다는 것] the thing about ~ (comment about unusual/noteworthy topic V marked by 는 것)",reftbd
+*/VV/*+았/EP/*+다는/ETM/*,"[V-다는 N] N about which they say ~ed (abbreviation for V-다고 하는 N; indirect quotation)
+[V-다는 것] the thing about ~ed (comment about unusual/noteworthy topic V marked by 는 것)",reftbd
+*/VV/*+ㅏㅆ/EP/*+어야/EC/*,had to ~
+*/VA/*+았/EP/*+겠/EP/*+어요/EF/*,(guessing) must've been ~
+*/VA/*+었/EP/*+겠/EP/*+어요/EF/*,(guessing) must've been ~
+*/NN/*+이/VCP/*+라면서/EC/*,"said that ""is ~""",???
+*/VV/*+ㅕㅆ/EP/*+더라고요/EF/*,"I (in the past) realized that (yet earlier) ~ed (<a href=""https://youtu.be/6kVYxc0OdwU?t=1034s"">ref</a>)"
+*/VV/*+더라고요/EF/*,"I (in the past) realized that ~ (<a href=""https://youtu.be/6kVYxc0OdwU?t=1034s"">ref</a>)"
+*/VV/*+더라고요/EC/*,"I (in the past) realized that ~ (<a href=""https://youtu.be/6kVYxc0OdwU?t=1034s"">ref</a>)"
+*/VA/*+더라고요/EF/*,"I (in the past) realized that is ~ (<a href=""https://youtu.be/6kVYxc0OdwU?t=1034s"">ref</a>)"
+*/NP/*+이/VCP/*+더라/EF/*,"I (in the past) realized that is ~",???
+*/VV/*+더라/EF/*,"I (in the past) realized that ~",???
+*/VV/*+었/EP/*+더라/EF/*,"I (in the past) realized that (yet earlier) ~ed",???
+*/VV/*+겠/EP/*+더라고요/EF/*,"I (in the past) realized that could/would ~ (<a href=""https://youtu.be/6kVYxc0OdwU?t=1034s"">ref</a>)"
+*/VA/*+던가요/EF/*,"I wonder if it had been the case that ~ (<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/62e212f49af00c002e6ed6f3"")">ref</a>)
+*/VV/*+라니/EC/*,"(suprised/impressed that) ~, so...",ref?
+*/VV/*+서/EC/*+야/JX/*,"~ even, so...; ~ even, and then... (<a href=""https://www.italki.com/en/post/question-365672"">ref</a>)"
+*/NN/*+이/VCP/*+었/EP/*+지만/EC/*,"was a ~, but..."
+*/VV/*+았/EP/*+다/EC/*,~ed
+*/VV/*+었/EP/*+다/EC/*,~ed
+*/NN/*+으로/JKB/*+도/JX/*,"even/also toward/using ~"
+*/VA/*+느니라/EF/*,"It is the case that ~; It is a fact that ~ (<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90ce76"">ref</a>)",archaic
+*/VV/*+었/EP/*+느니라/EF/*,"It is the case that ~ed; It is a fact that ~ed (<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90ce76"">ref</a>)",archaic
+*/NN/*+이/VCP/*+시요/EF/*,is a ~,honorific
+*/VA/*+면/EC/*,if/when ~
+*/NN/*+랑/JKB/*,with ~
+*/NN/*+이랑/JC/*,with ~
+*/NN/*+이랑/JKB/*,with ~
+*/VV/*+지요/EF/*,"~, right?"
+*/NN/*+이/VCP/*+ᆯ까요/EF/*,I wonder if is ~
+*/VA/*+을까요/EF/*,I wonder if ~
+*/VV/*+자/EF/*,Let's ~
+*/VV/*+었/EP/*+지요/EF/*,"~ed, right?"
+*/NN/*+이/VCP/*+면/EC/*,if/when is a ~
+*/VV/*+고요/EF/*,"~, and... (sentence end, but thought not done [<a href=""https://www.youtube.com/watch?v=ygFX0zqkt9M&t=983s"">ref</a>])"
+*/VV/*+고요/EC/*,"~, and... (sentence end, but thought not done [<a href=""https://www.youtube.com/watch?v=ygFX0zqkt9M&t=983s"">ref</a>])"
+*/VA/*+고요/EF/*,"~, and... (sentence end, but thought not done [<a href=""https://www.youtube.com/watch?v=ygFX0zqkt9M&t=983s"">ref</a>])"
+*/NN/*+이/VCP/*+고요/EF/*,"is ~, and... (sentence end, but thought not done [<a href=""https://www.youtube.com/watch?v=ygFX0zqkt9M&t=983s"">ref</a>])"
+*/NN/*+이/VCP/*+었/EP/*+고요/EF/*,"was ~, and... (sentence end, but thought not done [<a href=""https://www.youtube.com/watch?v=ygFX0zqkt9M&t=983s"">ref</a>])"
+*/VV/*+고/EC/*+요/JX/*,"~, and... (sentence end, but thought not done [<a href=""https://www.youtube.com/watch?v=ygFX0zqkt9M&t=983s"">ref</a>])"
+*/VV/*+고/EC/*+요/MM/*,"~, and... (sentence end, but thought not done [<a href=""https://www.youtube.com/watch?v=ygFX0zqkt9M&t=983s"">ref</a>])"
+*/VA/*+고/EC/*+요/JX/*,"~, and... (sentence end, but thought not done [<a href=""https://www.youtube.com/watch?v=ygFX0zqkt9M&t=983s"">ref</a>])"
+*/NN/*+뿐/JX/*+만/JX/*,only ~
+*/VA/*+지/EF/*,"~?; ~, right?"
+*/NN/*+이/VCP/*+었/EP/*+지요/EF/*,"was a ~, right?"
+*/NN/*+랑/JC/*,with ~
+*/VA/*+ᆫ데/EC/*,"~, but..."
+*/NN/*+로/JKB/*+요/JX/*,Toward/using ~.
+*/VV/*+러요/EF/*,In order to ~.
+*/VA/*+았/EP/*+답니다/EF/*,"said that was ~ (contraction of -다고 합니다; <a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90cf8d"">ref</a>)"
+*/VA/*+었/EP/*+답니다/EF/*,"said that was ~ (contraction of -다고 합니다; <a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90cf8d"">ref</a>)"
+*/VV/*+았/EP/*+답니다/EF/*,"said that ~ed (contraction of -다고 합니다; <a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90cf8d"">ref</a>)"
+*/VV/*+었/EP/*+답니다/EF/*,"said that ~ed (contraction of -다고 합니다; <a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90cf8d"">ref</a>)"
+*/VA/*+ㅏ요/EF/*,~
+*/NN/*+들/XSN/*+이/VCP/*+라고/EF/*,said that is ~s
+*/NN/*+들/XSN/*+이랑/JKB/*,with ~s
+*/NN/*+이/VCP/*+죠/EF/*,"is a ~, right?"
+*/NN/*+들/XSN/*+이/VCP/*+에요/EF/*,is ~s
+*/NN/*+들/XSN/*+한테/JKB/*,to ~s
+*/NN/*+들/XSN/*+한테/JKB/*+도/JX/*,to ~s also
+*/NN/*+들/XSN/*+한테/JKB/*+는/JX/*,to ~s
+*/NN/*+한테/JKB/*+도/JX/*,to ~ also
+*/VV/*+요/EC/*,~
+*/VV/*+아요/EC/*,~
+*/NN/*+에게/JKB/*+도/JX/*,to ~ also
+*/VV/*+았/EP/*+냐고/EF/*,"asked if ~ed? (<a href=""https://www.youtube.com/watch?v=j7dmqbz6wWQ&t=232s"">ref</a>)"
+*/VA/*+냐고/EF/*,"asked if ~? (<a href=""https://www.youtube.com/watch?v=j7dmqbz6wWQ&t=232s"">ref</a>)"
+*/VA/*+냐고요/EF/*,"asked if ~? (<a href=""https://www.youtube.com/watch?v=j7dmqbz6wWQ&t=232s"">ref</a>)"
+*/MAG/*+이/VCP/*+냐고요/EF/*,"asked if is ~ (<a href=""https://www.youtube.com/watch?v=j7dmqbz6wWQ&t=232s"">ref</a>)"
+*/VV/*+냐고/EC/*,"asked if ~? (<a href=""https://www.youtube.com/watch?v=j7dmqbz6wWQ&t=232s"">ref</a>)"
+*/NP/*+이/VCP/*+냐고/EC/*,"asked if is ~? (<a href=""https://www.youtube.com/watch?v=j7dmqbz6wWQ&t=232s"">ref</a>)"
+*/VV/*+었/EP/*+냐고/EC/*,"asked if ~ed? (<a href=""https://www.youtube.com/watch?v=j7dmqbz6wWQ&t=232s"">ref</a>)"
+*/VV/*+았/EP/*+냐고/EC/*,"asked if ~ed? (<a href=""https://www.youtube.com/watch?v=j7dmqbz6wWQ&t=232s"">ref</a>)"
+*/VV/*+었/EP/*+죠/EF/*,"~ed, right?"
+*/NP/*+과/JC/*,~ with
+*/NN/*+으로서/JKB/*,"as; for; in the capacity of; being ~ (<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e98a0b20af306c90d0f1"">ref</a>)"
+*/NN/*+이/VCP/*+었/EP/*+던/ETM/*,used to be ~
+*/VV/*+다/EC/*,~
+*/NN/*+에서/JKB/*+도/JX/*,from ~ also
+*/VV/*+았었/EP/*+는데/EC/*,"~ed (long ago), but..."
+*/VA/*+ㅏ서/EC/*,"~, so..."
+*/VV/*+게/EC/*+도/JX/*,~ly also; so that ~ also
+*/MAG/*+까지/JX/*,to/until ~
+*/VV/*+면서/EC/*+도/JX/*,while ~ also
+*/VV/*+으면서/EC/*+도/JX/*,while ~ also
+*/MAG/*+만/JX/*,~ only
+*/VV/*+듯이/EC/*,"is like ~; is as if ~ (<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90cffb"">ref</a>)"
+*/NN/*+ᆫ/JX/*,~
+*/XSN/*+을/JKO/*,~
+*/VA/*+지/EC/*+않/VX/*+아요/EF/*,"~, as you know; ~, isn't it? (refs: <a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e98a0b20af306c90d348"">1</a>, <a href=""https://www.youtube.com/watch?v=6kVYxc0OdwU&t=2576s"">2</a>)"
+*/VV/*+지/EC/*+않/VX/*+아요/EF/*,"~, as you know; ~, isn't it? (refs: <a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e98a0b20af306c90d348"">1</a>, <a href=""https://www.youtube.com/watch?v=6kVYxc0OdwU&t=2576s"">2</a>)"
+*/NN/*+들/XSN/*+이/VCP/*+었/EP/*+어요/EF/*,were ~s
+*/NN/*+과/JKB/*+요/JX/*,with ~
+*/NN/*+과/JC/*+요/JX/*,with ~
+*/NN/*+들/XSN/*+하고/JKB/*+도/JX/*,and/with ~s also; even and/with ~s
+*/NN/*+들/XSN/*+하고/JKB/*+는/JX/*,and/with ~s
+*/VA/*+ㅕ/EC/*+지/VX/*+ㄴ/ETM/*,become ~
+*/VV/*+었/EP/*+어서/EC/*,"~ed, so..."
+*/VA/*+ㄹ/ETM/*,will be ~
+*/VV/*+ᄇ시다/EC/*,Let's ~; Shall we ~?
+*/VV/*+라/EC/*,"[command] ~ (<a href=""https://korean.dict.naver.com/koendict/#/entry/koen/8c99acab68e24015915be74991c4872c"">ref</a>)"
+*/VV/*+ㅕ요/EF/*,~
+*/NN/*+이/VCP/*+어서/EC/*,"is ~, so..."
+*/VA/*+았/EP/*+을/ETM/*,would be ~
+*/VV/*+ㅏㅆ/EP/*+다/EC/*,while was ~ing
+*/NP/*+에서/JKB/*+는/JX/*,from ~
+*/VV/*+고/EC/*+도/JX/*,and ~ also
+*/NN/*+나/JX/*,~ or
+*/NN/*+들/XSN/*+에/JKB/*+만/JX/*,at/to ~ only
+*/NN/*+은/JX/*+요/JX/*,~.
+*/NP/*+서/JKB/*+는/JX/*,at/from ~
+*/VV/*+ᄇ니다/EF/*+라고/JKQ/*,"said ""~"""
+*/VV/*+았/EP/*+는데요/EF/*,"~ed [contrasting/but; providing background info] (<a href=""https://www.youtube.com/watch?v=6kVYxc0OdwU&t=5842s"">ref</a>)"
+*/VV/*+었/EP/*+는데요/EF/*,"~ed [contrasting/but; providing background info] (<a href=""https://www.youtube.com/watch?v=6kVYxc0OdwU&t=5842s"">ref</a>)"
+*/NN/*+이/VCP/*+ᆫ데요/EF/*,"is ~ [contrasting/but; providing background info] (<a href=""https://www.youtube.com/watch?v=6kVYxc0OdwU&t=5842s"">ref</a>)"
+*/NN/*+이/VCP/*+ㄴ데요/EF/*,"is ~ [contrasting/but; providing background info] (<a href=""https://www.youtube.com/watch?v=6kVYxc0OdwU&t=5842s"">ref</a>)"
+*/NN/*+이/VCP/*+었/EP/*+는데요/EF/*,"was ~ [contrasting/but; providing background info] (<a href=""https://www.youtube.com/watch?v=6kVYxc0OdwU&t=5842s"">ref</a>)"
+*/VV/*+는데요/EC/*,"~, but... [contrasting; providing background info] (<a href=""https://www.youtube.com/watch?v=6kVYxc0OdwU&t=5842s"">ref</a>)"
+*/VV/*+는데요/EF/*,"~, but... [contrasting; providing background info] (<a href=""https://www.youtube.com/watch?v=6kVYxc0OdwU&t=5842s"">ref</a>)"
+*/VV/*+겠/EP/*+는데요/EF/*,"(guessing; will) ~, but... [contrasting; providing background info] (<a href=""https://www.youtube.com/watch?v=6kVYxc0OdwU&t=5842s"">ref</a>)"
+*/VA/*+겠/EP/*+는데요/EF/*,"(guessing; will) ~, but... [contrasting; providing background info] (<a href=""https://www.youtube.com/watch?v=6kVYxc0OdwU&t=5842s"">ref</a>)"
+*/VA/*+는데요/EF/*,"~ [contrasting/but; providing background info] (<a href=""https://www.youtube.com/watch?v=6kVYxc0OdwU&t=5842s"">ref</a>)"
+*/VA/*+ᆫ데/EC/*+요/JX/*,"~ [contrasting/but; providing background info] (<a href=""https://www.youtube.com/watch?v=6kVYxc0OdwU&t=5842s"">ref</a>)"
+*/VV/*+아야/EC/*+하/VX/*+겠/EP/*+어요/EF/*,will have to ~; guessing will have to ~
+*/VV/*+ㅕ야지/EC/*,"have to ~ (of course!, right?!) (<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e98a0b20af306c90d213"">ref</a>)
+speculation: contraction for V-아/어야 하죠."
+*/VV/*+나/EC/*,"[<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90ce40"">V-나 보다</a>] seems that ~"
+*/VV/*+었/EP/*+나/EC/*,"[<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90ce40"">V-나 보다</a>] seems that ~ed"
+*/NN/*+이/VCP/*+ᄆ/ETN/*+이/JKS/*,being a ~,???
+*/VV/*+다니/EC/*,"(can you believe that) ~?! [used to express surprise, <a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90cf5a"">ref</a>]"
+*/VV/*+었/EP/*+다니/EC/*,"(can you believe that) ~ed?! [used to express surprise, <a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90cf5a"">ref</a>]"
+*/VV/*+았/EP/*+다니/EC/*,"(can you believe that) ~ed?! [used to express surprise, <a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90cf5a"">ref</a>]"
+*/VV/*+았/EP/*+기/ETN/*+에/JKB/*,"because ~ed (<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/62e1d7279a50ba002e20a5b1"">ref</a>)"
+*/VV/*+었/EP/*+기/ETN/*+에/JKB/*,"because ~ed (<a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/62e1d7279a50ba002e20a5b1"">ref</a>)"
+*/VV/*+어/EC/*+지/VX/*+었/EP/*+을/ETM/*,would have become ~
+*/VV/*+어/EC/*+지/VX/*+었/EP/*+지요/EF/*,"became ~ed, right?"
+*/NN/*+들/XSN/*+이/JKS/*+요/JX/*,It's ~s
+*/VV/*+아/EC/*+주/VX/*+어요/EF/*,~ (as a favour)
+*/MAG/*+이/VCP/*+ᆫ가요/EC/*,is ~?
+*/VA/*+ᆯ지/EC/*,[indirect question] will be ~?
+*/NN/*+도/JX/*+요/JX/*,~ also.
+*/VV/*+면서/EC/*+요/JX/*,While ~.
+*/NN/*+이/VCP/*+라면/EC/*,if is ~
+*/NP/*+이/VCP/*+라면/EC/*,if is ~
+*/NN/*+에서/JKB/*+의/JKG/*,"that is from ~ (adnominalization of N-에서; <a href=""http://kgf.korninterlinereader.asia.ubc.ca/entry/62e22c499af00c002e6ee11b"">ref</a>)",prenoun
+*/VV/*+았/EP/*+으니까요/EF/*,Because ~ed.
+*/VA/*+니까요/EF/*,Because ~.
+*/VV/*+니까요/EF/*,Because ~.
+*/VA/*+지/EC/*+는/JX/*,not ~
+*/VV/*+지/EC/*+는/JX/*,not ~
+*/VA/*+으세요/EF/*,~,honorific
+*/NP/*+이/VCP/*+에요/EF/*,is ~
+*/NP/*+한테/JKB/*+는/JX/*,to ~
+*/NN/*+으로부터/JKB/*,from using ~
+*/VV/*+았/EP/*+다가/EC/*,while ~ed
+*/NN/*+들/XSN/*+에게/JKB/*+도/JX/*,"to ~s also"
+*/NN/*+들/XSN/*+에게서/JKB/*,"to ~s, so..."
+*/VV/*+었/EP/*+기/ETN/*+를/JKO/*,having ~ed
+*/VV/*+았/EP/*+기/ETN/*+를/JKO/*,having ~ed
+*/VA/*+아/EC/*+지/VX/*+어서/EC/*,"become ~, so..."
+*/VA/*+어/EC/*+지/VX/*+어서/EC/*,"become ~, so..."
+*/NP/*+ㄹ/JKO/*,~
+*/NP/*+들/XSN/*+은/JX/*,~s
+*/NP/*+들/XSN/*+도/JX/*,~s also
+*/VA/*+아요/EC/*,~
+*/NR/*+만/JX/*,only ~
+*/NN/*+이/VCP/*+네요/EF/*,is ~!
+*/NP/*+이/VCP/*+죠/EF/*,"is ~, right?"
+*/MAG/*+요/JX/*,~
+*/NN/*+이/VCP/*+다/EC/*,is ~
+*/NN/*+부터/JX/*+이/VCP/*+어서/EC/*,"is starting from ~, so..."
+*/NP/*+랑/JKB/*+요/JX/*,with ~.
+*/NN/*+이/VCP/*+ᆫ데/EC/*+도/JX/*,"is ~, but also...; even though is ~"
+*/VV/*+았/EP/*+는지/EC/*+에/JKB/*,[indirect question] to/about what ~ed
+*/VV/*+었/EP/*+는지/EC/*+에/JKB/*,[indirect question] to/about what ~ed
+*/VV/*+았/EP/*+는데/EC/*+도/JX/*,"~ed, but also...; even though ~ed"
+*/VV/*+었/EP/*+는데/EC/*+도/JX/*,"~ed, but also...; even though ~ed"
+*/NN/*+뿐/JX/*,[N-뿐 아니라] not only ~
+*/VV/*+었/EP/*+나/EC/*+요/JX/*,~ed?
+*/VV/*+았/EP/*+나/EC/*+요/JX/*,~ed?
+*/NP/*+이/VCP/*+ᄇ니다/EF/*,is ~.
+*/NP/*+까지/JX/*+이/VCP/*+ᄇ니다/EF/*,is to/until ~.
+*/NP/*+들/XSN/*+과/JKB/*,with ~s
+*/NN/*+만큼/JKB/*+은/JX/*,like a ~; as much as ~
+*/VV/*+는/ETM/*+것/NNB/*+이/JKS/*,~ing
+*/VV/*+는/ETM/*+거/NNB/*+이/VCP/*+죠/EF/*,"~ing, right?"
+*/VV/*+ᆯ게/EF/*+요/MM/*,will ~ (for someone)
+*/NN/*+이/VCP/*+라니/EC/*,"is ~ (which is surprising), so...",...
+*/VV/*+어야/EC/*+겠/EP/*+죠/EF/*,"guessing will have to ~, right?"
+*/VV/*+으세요/EC/*,~.,honorific
+*/VV/*+았/EP/*+어야/EC/*,had to ~
+*/VV/*+었/EP/*+어야/EC/*,had to ~
+*/NN/*+이/VCP/*+었/EP/*+네요/EF/*,was ~!
+*/NN/*+이/VCP/*+았/EP/*+네요/EF/*,was ~!
+*/NN/*+랑/JKB/*+도/JX/*,with ~ also
+*/VV/*+면은/EC/*,if/when ~
+*/NN/*+이/VCP/*+기/ETN/*+ᆫ/JX/*,being ~
+*/VA/*+았었/EP/*+고/EC/*,"was ~ (long ago), and..."
+*/VA/*+었었/EP/*+고/EC/*,"was ~ (long ago), and..."
+*/NN/*+이/VCP/*+니까요/EF/*,is ~ (that's the reason).,???
+*/VV/*+겠/EP/*+나요/EF/*,(guessing; will) ~?
+*/NP/*+들/XSN/*+만/JX/*+의/JKG/*,only/just ~s'
+*/NN/*+들/XSN/*+만/JX/*+의/JKG/*,only/just ~s'
+*/NN/*+만/JX/*+의/JKG/*,only/just ~'s
+*/NP/*+만/JX/*+의/JKG/*,only/just ~'s
+*/VV/*+길래/EC/*,because ~,???
+*/VA/*+지/EC/*+가/JX/*,not ~
+*/VV/*+답니다/EF/*,"said that ~. (abbreviation for V-다고 합니다.) [<a href=""https://web.archive.org/web/20171018073352/http://www.koreangrammaticalforms.com/entry.php?eid=0000000801"">ref</a>]"
+*/VV/*+라는/ETM/*,"commanding to ~ (abbreviation for V-라고 하는) [<a href=""https://web.archive.org/web/20171018082355/http://www.koreangrammaticalforms.com/entry.php?eid=0000001084"">ref</a>]",???
+*/VV/*+으라는/ETM/*,"commanding to ~ (abbreviation for V-라고 하는) [<a href=""https://web.archive.org/web/20171018082355/http://www.koreangrammaticalforms.com/entry.php?eid=0000001084"">ref</a>]",???
+*/VV/*+겠/EP/*+지만/EC/*,"(guessing; will) ~, but..."
+*/VV/*+ㅕㅆ었/EP/*+어요/EF/*,~ed (long ago)
+*/VV/*+ㅏㅆ었/EP/*+어요/EF/*,~ed (long ago)
+*/NN/*+로/JKB/*+도/JX/*,toward/using ~ also
+*/NN/*+들/XSN/*+에서/JKB/*+는/JX/*,from ~s
+*/VA/*+아도/EC/*,"~ also; even ~"
+*/NN/*+이/VCP/*+든/EC/*,"whether or not is ~; no matter if is ~"
+*/VV/*+은지/EC/*,[indirect question] if ~ed?,???
+*/VA/*+았/EP/*+어/EC/*,was ~
+*/VV/*+ᆫ지/EC/*,(how long) since ~ed,reftbd
+*/VV/*+기/ETN/*+나/JX/*,~ing or
+*/VV/*+기/ETN/*+랑/JKB/*,~ing and
+*/NN/*+대로/JX/*,"according to ~ (<a href=""https://web.archive.org/web/20171018073526/http://www.koreangrammaticalforms.com/entry.php?eid=0000000810"">ref</a>)"
+*/NN/*+이/VCP/*+ㅔ요/EF/*+라고/JKQ/*,""is ~."",reftbd
+*/VA/*+은가요/EF/*,~?
+*/VV/*+었/EP/*+는지/EC/*+도/JX/*,[indirect question] also if ~ed?
+*/VV/*+았/EP/*+나/EF/*,~ed?
+*/VV/*+ㅏㅆ/EP/*+나/EF/*,~ed?
+*/NN/*+이/VCP/*+네/EF/*,is ~!
+*/VV/*+ㅏㅆ/EP/*+지요/EF/*,"~ed, right?"
+*/NN/*+아/JKV/*,hey ~
+*/NN/*+이라던가/JC/*,"~, or something like that",???
+*/NN/*+라던가/JC/*,"~, or something like that",???
+*/VV/*+ᆯ수록/EC/*,"the more ~ [<a href=""https://kgf.korninterlinereader.asia.ubc.ca/entry/62e214049af00c002e6ed923"">ref</a>]"
+*/NN/*+들/XSN/*+이랑/JKB/*+도/JX/*,with ~s also
+*/VV/*+어/EC/*+도/JX/*,~ also
+*/VV/*+ㅕ/EF/*+라는/ETM/*,"""~"""
+*/VV/*+어라/EF/*,"[command] ~. (<a href=""https://www.howtostudykorean.com/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-34-41/lesson-40/#403"">ref</a>)",formal
+*/VV/*+더라도/EC/*,"even though ~; even supposing that ~ (<a href=""https://kgf.korninterlinereader.asia.ubc.ca/entry/62e212e99af00c002e6ed6cb"">ref</a>)"
+*/VV/*+았/EP/*+든지/EC/*,"whatever ~ed (<a href=""https://kgf.korninterlinereader.asia.ubc.ca/entry/62e213269af00c002e6ed77b"">ref</a>)"
+*/VV/*+었/EP/*+든지/EC/*,"whatever ~ed (<a href=""https://kgf.korninterlinereader.asia.ubc.ca/entry/62e213269af00c002e6ed77b"">ref</a>)"
+*/NR/*+이/VCP/*+ㅔ요/EF/*,is ~.
+*/NN/*+이/VCP/*+ᆫ가/EC/*,"[<a href=""https://kgf.korninterlinereader.asia.ubc.ca/entry/62e1d8259a50ba002e20a651"">-ㄴ가 보다</a>] seems to be ~
+[<a href=""https://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90cd96"">-ㄴ가 싶다</a>] wonder whether ~",...
+*/NN/*+이/VCP/*+냐고요/EF/*,is ~?,???
+*/VV/*+었/EP/*+냐고요/EF/*,~ed?,???
+*/VV/*+느냐/EC/*+에/JKB/*,"[<a href=""https://www.howtostudykorean.com/unit-5/lessons-101-108/lesson/#831"">-느냐에 따라(서)</a>] depending on ~ (indirect question)"
+*/VA/*+ㅓㅆ/EP/*+습니다/EF/*,was ~
+*/VV/*+지만/EC/*+요/JX/*,But ~.
+*/VV/*+으세요/EF/*,~.,honorific
+*/VV/*+게/EC/*+요/JX/*,so that ~; intention to ~?,???
+*/VV/*+아/EC/*+주/VX/*+ᆯ게요/EF/*,will ~ (as a favour)
+*/VV/*+아/EC/*+주/VX/*+어서/EC/*,"~ (as a favour), so..."
+*/VV/*+었/EP/*+냐면/EC/*+요/JX/*,Because ~ed.,???
+*/VA/*+면서/EC/*,while ~
+*/VV/*+는지/EC/*+에/JKB/*,at/to [indirect question] ~?
+*/NN/*+들/XSN/*+이/VCP/*+ᄇ니다/EF/*,are ~s
+*/VV/*+았었/EP/*+죠/EF/*,"~ed (long ago), right?"
+*/VV/*+었었/EP/*+죠/EF/*,"~ed (long ago), right?"
+*/VV/*+ᆯ/ETM/*+것/NNB/*+이/JKS/*+요/JX/*,"will ~ (<a href=""https://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90d022"">ref</a>)"
+*/VV/*+을게요/EF/*,"will ~ (<a href=""https://kgf.korninterlinereader.asia.ubc.ca/entry/6285e9870b20af306c90d022"">ref</a>)"
+*/NP/*+이/VCP/*+지/EF/*,is ~?
+*/NN/*+들/XSN/*+이랑/JC/*,with ~s
+*/VV/*+어야/EC/*+하/VX/*+겠/EP/*+죠/EF/*,"(guessing) will have to, right?"
+*/VV/*+아야/EC/*+하/VX/*+겠/EP/*+죠/EF/*,"(guessing) will have to, right?"
+*/VA/*+어야/EC/*,must be ~
+*/NP/*+다/JX/*,"[emphasis] just ~, exactly ~"
+*/VV/*+겠/EP/*+네/EF/*,guessing;will ~!
+*/VA/*+나/EF/*,~?
+*/NN/*+도/JX/*+이/VCP/*+ㅔ요/EF/*,is also ~
+*/VV/*+으려/EC/*,intend to ~; plan to ~
+*/VV/*+ㅕ야죠/EF/*,"must ~, right?"
+*/NN/*+이/VCP/*+겠/EP/*+네요/EF/*,guessing is ~!
+*/NN/*+이/VCP/*+겠/EP/*+죠/EF/*,"guessing is ~, right?"
+*/NN/*+같이/JKB/*,like ~
+*/VV/*+지/EC/*+가/JX/*,not ~
+*/VV/*+네/EC/*,~!
+*/VV/*+ㅕ라/EF/*,[command] ~
+*/NN/*+이/VCP/*+었/EP/*+어/EF/*,was ~
+*/VV/*+ㅏ야지/EF/*,"must ~, right?; must ~, don't you know! (<a href=""https://kgf.korninterlinereader.asia.ubc.ca/entry/6285e98a0b20af306c90d213"">ref</a>)"
+*/VV/*+야지/EF/*,"must ~, right?; must ~, don't you know! (<a href=""https://kgf.korninterlinereader.asia.ubc.ca/entry/6285e98a0b20af306c90d213"">ref</a>)"
+*/VA/*+지/EC/*+ㄴ/JX/*,not ~
+*/NN/*+이/VCP/*+었/EP/*+죠/EF/*,"was ~, right?"
+*/NN/*+에서/JKB/*+ᆫ/JX/*,from ~
+*/MAG/*+은/JX/*+요/JX/*,~.
+*/NP/*+한테/JKB/*+도/JX/*,to ~ also
+*/NN/*+는/JX/*+요/JX/*,~.
+*/VA/*+겠/EP/*+는데/EC/*,"(guessing; will) be ~, but..."
+*/NN/*+에서/JKB/*+나/JX/*,"from ~, or..."
+*/VV/*+려나/EF/*,intend to ~?
+*/NN/*+에다가/JKB/*,"in/on/in addition to ~ (<a href=""https://kgf.korninterlinereader.asia.ubc.ca/entry/6285e98a0b20af306c90d26b"">ref</a>)"
+*/VA/*+아/EC/*+지/VX/*+ᆫ/ETM/*,becoming ~,prenoun
+*/NN/*+이/JKS/*+요/JX/*,is ~
+*/NP/*+도/JX/*+요/JX/*,~ also.
+*/VV/*+ᆯ래요/EF/*,"I intend to ~.; Would you like to ~? (<a href=""https://youtu.be/sURzQfmZHP0?t=843"">1</a>, <a href=""https://youtu.be/MJ_F5Yri1L0?t=1523"">2</a>)"
+*/VV/*+ᆯ래/EF/*,"I intend to ~.; Would you like to ~? (<a href=""https://youtu.be/sURzQfmZHP0?t=843"">1</a>, <a href=""https://youtu.be/MJ_F5Yri1L0?t=1523"">2</a>)"
+*/VV/*+을래요/EF/*,"I intend to ~.; Would you like to ~? (<a href=""https://youtu.be/sURzQfmZHP0?t=843"">1</a>, <a href=""https://youtu.be/MJ_F5Yri1L0?t=1523"">2</a>)"
+*/VA/*+아/EC/*+지/VX/*+었/EP/*+는데/EC/*,"became ~, but..."
+*/VA/*+아서요/EF/*,"~, so... (sentence end, but thought not done)",???
+*/NN/*+이/VCP/*+요/EF/*,"~. (<a href=""https://www.youtube.com/watch?v=RhmNBhGfShA"">ref</a>)"
+*/VV/*+면/EC/*+요/JX/*,If ~.
+*/VV/*+ᄆ/ETN/*+으로써/JKB/*,"through/on account of/by ~ing (<a href=""https://kgf.korninterlinereader.asia.ubc.ca/entry/6285e98a0b20af306c90d112"">ref</a>)"
+*/NP/*+서/JKB/*+만/JX/*,only from ~
+*/NN/*+들/XSN/*+이/VCP/*+네/EF/*,is ~s!
+*/NR/*+까지/JX/*,to/until ~
+*/VA/*+어서/EC/*+도/JX/*,"~, so also..."
+*/VA/*+ㅓ/EC/*+지/VX/*+ㅓ요/EF/*,become ~
+*/NN/*+이/VCP/*+냐면/EC/*,"[abbrev: -냐고 하면] supposing one asks is ~, ..."
+*/VV/*+냐면/EC/*,"[abbrev: -냐고 하면] supposing one asks ~, ..."
+*/VA/*+었/EP/*+네요/EF/*,was ~!
+*/NP/*+이/VCP/*+겠/EP/*+죠/EF/*,"guessing is ~, right?; will be ~, right?"
+*/NN/*+이/VCP/*+었/EP/*+나/EF/*,was a ~?
+*/NN/*+들/XSN/*+이/VCP/*+지만/EC/*,"are ~s, but..."
+*/VV/*+ᄇ시오/EF/*,[command] ~,"honorific,formal"
+*/VV/*+아서/EC/*+만/JX/*,"only after having ~ (<a href=""https://kgf.korninterlinereader.asia.ubc.ca/entry/62e22be79af00c002e6edeb2"">ref</a>)"
+*/VA/*+었/EP/*+겠/EP/*+지만/EC/*,"guessing was ~, but...; would have been ~, but..."
