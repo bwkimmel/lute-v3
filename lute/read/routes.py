@@ -2,6 +2,8 @@
 /read endpoints.
 """
 
+import re
+
 from datetime import datetime
 from flask import Blueprint, flash, request, render_template, redirect, jsonify
 from lute.read.service import set_unknowns_to_known, start_reading, get_popup_data
@@ -11,6 +13,9 @@ from lute.term.routes import handle_term_form
 from lute.models.book import Book, Text
 from lute.models.setting import UserSetting
 from lute.db import db
+
+
+YOUTUBE_WATCH_URL_RE = r"^https://www\.youtube\.com/watch\?v=([A-Za-z0-9_-]{11})$"
 
 
 bp = Blueprint("read", __name__, url_prefix="/read")
@@ -24,6 +29,12 @@ def _render_book_page(book, pagenum):
     show_highlights = bool(int(UserSetting.get_value("show_highlights")))
     term_dicts = lang.all_dictionaries()[lang.id]["term"]
 
+    embed_video_url = None
+    if book.source_uri:
+        match = re.fullmatch(YOUTUBE_WATCH_URL_RE, book.source_uri)
+        if match:
+            embed_video_url = "https://www.youtube.com/embed/{}".format(match[1])
+
     return render_template(
         "read/index.html",
         hide_top_menu=True,
@@ -36,6 +47,7 @@ def _render_book_page(book, pagenum):
         show_highlights=show_highlights,
         lang_id=lang.id,
         term_dicts=term_dicts,
+        embed_video_url=embed_video_url,
     )
 
 
