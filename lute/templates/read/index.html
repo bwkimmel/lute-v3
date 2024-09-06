@@ -37,6 +37,12 @@
     {% include "read/reading_menu.html" %}
   </div>
 
+  {% if embed_video_url %}
+    <div class="video-player-container">
+      <iframe class="video-player" src="{{ embed_video_url }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  {% endif %}
+
   <div id="reading-header">
 
     <div class="reading_header_container">
@@ -228,6 +234,10 @@
     });
     
     theTextReloadObs.observe(theText, {childList: true, subtree: true});
+
+    $(".video-player-container").resizable({
+      handles: 's'
+    });
 
     // do not load focus state if in tablet mode
     if (!mediaTablet.matches) {
