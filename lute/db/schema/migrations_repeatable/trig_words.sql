@@ -8,27 +8,46 @@ WHEN (old.WoStatus <> new.WoStatus or (old.WoSyncStatus = 0 and new.WoSyncStatus
 BEGIN
     UPDATE words
     SET WoStatus = new.WoStatus
-    WHERE WoID in (
-      -- single parent children that are following this term.
-      select WpWoID
-      from wordparents
-      inner join words on WoID = WpWoID
-      where WoSyncStatus = 1
-      and WpParentWoID = old.WoID
-      group by WpWoID
-      having count(*) = 1
-
-      UNION
-
-      -- The parent of this term,
-      -- if this term has a single parent and has "follow parent"
+    WHERE WoStatus < new.WoStatus
+    AND WoStatus != 98 -- IGNORED
+    AND WoID IN (
       select WpParentWoID
       from wordparents
       inner join words on WoID = WpWoID
       where WoSyncStatus = 1
-      and WoID = old.WoID
-      group by WpWoID
-      having count(*) = 1
+      and WpWoID = old.WoID
+    );
+
+    UPDATE words
+    SET WoStatus = new.WoStatus
+    WHERE (
+      select WpParentWoID
+      from wordparents
+      inner join words on WoID = WpWoID
+      where WoSyncStatus = 1
+      and WpWoID = old.WoID
+    )
+    AND WoStatus != 98 -- IGNORED
+    AND WoStatus = (
+      select min(WoStatus)
+      from wordparents
+      inner join words on WoID = WpParentWoID
+      where WpWoID = old.WoID
+      and WoStatus != 98 -- IGNORED
+    );
+
+    UPDATE words
+    SET WoStatus = COALESCE((
+      select MIN(p.WoStatus)
+      from wordparents
+      inner join words as p on WpParentWoID = p.WoID
+      where WpWoID = words.WoID
+    ), 98)
+    WHERE WoSyncStatus = 1
+    AND WoID IN (
+      select WpWoID
+      from wordparents
+      where WpParentWoID = old.WoID
     );
 END;
 

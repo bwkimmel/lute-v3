@@ -56,7 +56,7 @@
       <div id="status-container">
         {{ form.status(class="form-control") }}
         <div id="sync-status-container">
-          {{ form.sync_status(class="form-control", disabled=True) }}
+          {{ form.sync_status(class="form-control") }}
           <label for="sync_status">Link to parent</label>
         </div>
       </div>
@@ -183,11 +183,7 @@
       // console.log(e.detail);
       const single_parent = (parents_tagify.value.length == 1);
       const cb = $("#sync_status");
-      cb.prop("checked", single_parent);
-      if (single_parent)
-        cb.removeAttr("disabled");
-      else
-        cb.attr("disabled", true);
+      cb.prop("checked", parents_tagify.value.length >= 1);
 
       // If adding a single parent, inherit its status.
       if (e.type == 'add' && single_parent) {
@@ -288,11 +284,6 @@
   };
 
   let enable_disable_sync_status_checkbox = function() {
-    const cb = $("#sync_status");
-    if (get_parents().length == 1)
-      cb.removeAttr("disabled");
-    else
-      cb.attr("disabled", true);
   };
 
   var TAGS = {{ tags | safe }};

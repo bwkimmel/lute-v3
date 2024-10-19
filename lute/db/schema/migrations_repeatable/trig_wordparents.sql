@@ -5,6 +5,21 @@ CREATE TRIGGER trig_wordparents_after_insert_update_parent_WoStatus_if_following
 AFTER INSERT ON wordparents
 BEGIN
     UPDATE words
+    SET WoStatus = COALESCE((
+      select min(WoStatus)
+      from wordparents
+      inner join words on WoID = WpParentWoID
+      where WpWoID = new.WpWoID
+      and WoStatus != 98 -- IGNORED
+    ), 98)
+    WHERE WoID IN (
+      select WoID
+      from words
+      where WoID = new.WpWoID
+      and WoSyncStatus = 1
+    );
+
+    UPDATE words
     SET WoStatus = (
       select WoStatus from words where WoID = new.WpWoID
     )
