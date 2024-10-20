@@ -326,8 +326,8 @@ class Repository:
         for tp in termparents:
             t.add_parent(tp)
 
-        if len(termparents) != 1:
-            t.sync_status = False
+        # if len(termparents) != 1:
+        #     t.sync_status = False
 
         # print(f"in _build_db_term, returning db term with term id = {t.id}", flush=True)
         return t
