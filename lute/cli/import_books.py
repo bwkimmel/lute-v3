@@ -103,7 +103,6 @@ def import_books_from_yt(language, lc, spec, tags, sort_re, sort_numeric, recurs
     print("Committing...")
     sys.stdout.flush()
     repo.commit()
->>>>>>> dec100e2 (Add tool to generate derived Korean terms.)
 
 
 def import_books_from_csv(file, language, tags, commit):
